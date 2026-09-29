@@ -1,0 +1,20 @@
+{
+  "name": "genpark-prompt-token-length-budget-packager-skill",
+  "version": "1.0.0",
+  "description": "Bin-packing optimizer grouping variable-length training examples into fixed context window token budgets",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "token-budget-packager",
+    "bin-packing",
+    "context-window",
+    "data-synthesis",
+    "dataset-prep",
+    "python-standard-library",
+    "agent-skills",
+    "tokenization",
+    "optimization",
+    "developer-tools"
+  ]
+}
