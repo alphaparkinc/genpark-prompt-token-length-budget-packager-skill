@@ -1,0 +1,6 @@
+name: genpark-prompt-token-length-budget-packager-skill
+version: 1.0.0
+description: Bin-packing optimizer grouping variable-length training examples into fixed context window token budgets
+command: python
+args:
+  - mcp_server.py
