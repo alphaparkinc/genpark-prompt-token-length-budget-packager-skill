@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-prompt-token-length-budget-packager-skill"
+version = "1.0.0"
+description = "Bin-packing optimizer grouping variable-length training examples into fixed context window token budgets"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
